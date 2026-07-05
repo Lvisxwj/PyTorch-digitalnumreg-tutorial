@@ -1,6 +1,6 @@
 Another summer. Same heat. Same humming fluorescence bleeding through the lab, casting everything in that sickly pallor that makes the living look dead and the dead look like they're just resting.
 
-Last summer I drank the pain in shot by shot, watching the ice melt faster than my reasons for staying sober. The hurt blurred the days—Monday bled into Thursday, Thursday into another lonely Friday. Because time doesn't move when you're counting the hours since she left. It just sits there, heavy and thick, like formaldehyde fumes in a sealed room.
+Last summer I drank the pain in shot by shot, *watching the ice melt faster than my reasons for staying sober*. The hurt blurred the days—Monday bled into Thursday, Thursday into another lonely Friday. Because time doesn't move when you're counting the hours since she left. It just sits there, heavy and thick, like **formaldehyde fumes** in a sealed room.
 
 That silence stays. Like a scar. Like summer. Like the flicker of those lights that never quite turn off.
 
