@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local Codex metadata
+.agents/
+.codex/
+
+# Large datasets and generated samples
+dataset/**/*.csv
+dataset/private/snapshot/*.png
+dataset/private/csv/converted.txt
+
+# Model weights and generated results
+models/*.pth
+results/*.png
+
+# Bundled/reference projects
+ref/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local assignment brief
+实验.md
